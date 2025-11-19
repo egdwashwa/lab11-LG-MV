@@ -1,4 +1,4 @@
-#https://github.com/<git@github.com:egdwashwa/lab11-LG-MV.git>
+#https://github.com/egdwashwa/lab11-LG-MV
 #Partner 1: <Leon Grigoruk>
 #Partner 2: <Megan Vu>
 import math
