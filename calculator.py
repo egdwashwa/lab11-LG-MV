@@ -1,6 +1,6 @@
-# https://github.com/<git@github.com:egdwashwa/lab11-LG-MV.git>
-# Partner 1: <Leon Grigoruk>
-# Partner 2: <Megan Vu>
+#https://github.com/<git@github.com:egdwashwa/lab11-LG-MV.git>
+#Partner 1: <Leon Grigoruk>
+#Partner 2: <Megan Vu>
 import math
 """
 calculator.py
