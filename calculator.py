@@ -30,7 +30,7 @@ def div(a,b):
     return b/a
 
 def logarithm(a,b):
-    if a <= 0 or a==1:
+    if a <= 0 or b==1:
         raise ValueError
     if b <= 0:
         raise ValueError
