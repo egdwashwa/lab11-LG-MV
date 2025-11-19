@@ -11,9 +11,9 @@ One function per operation, in order.
 def square_root(a):
     if a < 0:
         raise ValueError 
-    math.sqrt(a)
+    return math.sqrt(a)
 def hypotenuse(a, b): 
-    math.hypot(a, b)
+    return math.hypot(a, b)
 
 def add(a, b):
     return a + b
