@@ -1,3 +1,7 @@
+# https://github.com/<git@github.com:egdwashwa/lab11-LG-MV.git>
+# Partner 1: <Leon Grigoruk>
+# Partner 2: <Megan Vu>
+
 import unittest
 from calculator import *
 
